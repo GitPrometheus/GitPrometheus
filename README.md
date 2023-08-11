@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitPrometheus
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Pyoth
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me : ypb1024@gmail.com
 
 <!---
